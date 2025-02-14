@@ -1,5 +1,5 @@
 token:
-  expiration_time: 6000000
+  expiration_time: 5000000
   secret: mPz6K217B4v8rK7YuG1d0kZ1R5yW9aqSfdsasgw45646546agdfdsbx
   text: dev
 
